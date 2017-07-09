@@ -1,5 +1,5 @@
 body {
-    background: #7D7979 url("https://www.bodybuilding.com/fun/images/2015/craig-capursos-high-def-shoulder-workout-facebook-960x540.jpg") no-repeat top;
+    background: #7D7979 url("https://image.shutterstock.com/z/stock-photo-handsome-weightlifter-preparing-for-training-shallow-depth-of-field-selective-focus-on-hands-and-366605333.jpg") no-repeat top;
 }
 
 .words {
@@ -12,7 +12,7 @@ body {
 h1 {
   font-size: 60px;
   font-weight: 500;
-  margin: 80px 0 0 0;
+  margin: 210px 0 0 0;
 }
 
 h2 {
@@ -39,7 +39,7 @@ h5 {
 
 .image {
   position: absolute;
-  margin-right: 200px;
+  margin-right: 160px;
 }
 
 .link {
@@ -56,5 +56,10 @@ h5 {
 }
 
 form {
-  margin-top: 20px;
+  margin-top: 20px; 
+}
+input {
+  border-radius: 7px;
+  padding: 15px;
+  color: gray;
 }
