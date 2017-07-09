@@ -38,6 +38,23 @@ h5 {
 }
 
 .image {
-  position: fixed;
-  margin: 0 50px 300px 0;
+  position: absolute;
+  margin-right: 200px;
+}
+
+.link {
+  border: 3px solid #DDD;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  padding: 10px 20px;
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-decoration: none;
+  font-size: 22px;
+  border-radius: 10px;
+}
+
+form {
+  margin-top: 20px;
 }
